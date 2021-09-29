@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+.logo{
+    justify-content: flex-start;
+}
+.header{
+    background-color: darkgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
